@@ -13,7 +13,7 @@ In this paper, all the experimental results and comparisons are conducted on Syd
 
 ### Feature Extraction and Processing
 
-Detailed feature extraction and processing are introduced in detail in the ***Implementation Details*** section of the paper, which you can read from the paper.
+Detailed feature extraction and processing are introduced in the ***Implementation Details*** section of the paper.
 
 - CLIP Feature Extraction and Embedding: `process_features/CLIP_feat_extract.py`
 
@@ -41,7 +41,7 @@ python train.py
 
 After training, checkpoints will be saved to the checkpoint folder, such as **Sydney_best.pth** and **Sydney_last.pth**
 
-Besides, if you want to continue training the model from different checkpoint, you can:
+Besides, if you want to continue training the model from a different checkpoint, you can:
 
 ```
 python train.py --resume_last
