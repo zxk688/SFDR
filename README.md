@@ -1,17 +1,11 @@
 # SFDR
 
-This repository contains the implementation for the following paper: ***Semantic-Spatial Feature Fusion with Dynamic Graph Refinement for Remote Sensing Image Captioning***, which has been accpeted by IEEE JSTARS.
+This repository contains the implementation for the following paper: ***Semantic-Spatial Feature Fusion with Dynamic Graph Refinement for Remote Sensing Image Captioning***, which has been accepted by IEEE JSTARS.
 
 ### Requirements
 
-All the environments and dependencies are in the **requirements.txt**, and you can install them through the command `pip install` , for example:
+All the environments and dependencies are in the **requirements.txt**, and you can install them through the command `pip install -r requirements.txt`.
 
-```bash
-pip install absl-py==1.4.0
-pip install *** == ***
-......
-......
-```
 
 ### Datasets
 
