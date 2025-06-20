@@ -1,7 +1,19 @@
 # SFDR
 
 This repository contains the implementation for the following paper: [***Semantic-Spatial Feature Fusion with Dynamic Graph Refinement for Remote Sensing Image Captioning***](https://ieeexplore.ieee.org/document/11039674), which has been accepted by IEEE JSTARS.
-
+If you find this research or dataset useful for your research, please cite our paper:
+```
+@ARTICLE{11039674,
+  author={Liu, Maofu and Liu, Jiahui and Zhang, Xiaokang},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
+  title={Semantic-Spatial Feature Fusion with Dynamic Graph Refinement for Remote Sensing Image Captioning}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-14},
+  keywords={Feature extraction;Visualization;Semantics;Remote sensing;Attention mechanisms;Decoding;Transformers;Vectors;Sensors;Convolutional neural networks;Remote sensing image captioning;feature fusion;graph attention;dynamic weighting mechanism},
+  doi={10.1109/JSTARS.2025.3580686}}
+```
 ### Requirements
 
 All the environments and dependencies are in the **requirements.txt**, and you can install them through the command `pip install -r requirements.txt`.
