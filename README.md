@@ -1,6 +1,6 @@
 # SFDR
 
-This repository contains the implementation for the following paper: ***Semantic-Spatial Feature Fusion with Dynamic Graph Refinement for Remote Sensing Image Captioning***, which has been accepted by IEEE JSTARS.
+This repository contains the implementation for the following paper: [***Semantic-Spatial Feature Fusion with Dynamic Graph Refinement for Remote Sensing Image Captioning***](https://ieeexplore.ieee.org/document/11039674), which has been accepted by IEEE JSTARS.
 
 ### Requirements
 
